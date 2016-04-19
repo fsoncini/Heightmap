@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heightmaps.CSharp.Plugins", "Heightmaps.CSharp.Plugins.csproj", "{3475ECEA-9A7B-F68C-FC7D-0D009FE1D1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heightmaps.CSharp.Editor", "Heightmaps.CSharp.Editor.csproj", "{620E162E-201A-FD01-61E6-0E918469B465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3475ECEA-9A7B-F68C-FC7D-0D009FE1D1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3475ECEA-9A7B-F68C-FC7D-0D009FE1D1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3475ECEA-9A7B-F68C-FC7D-0D009FE1D1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3475ECEA-9A7B-F68C-FC7D-0D009FE1D1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620E162E-201A-FD01-61E6-0E918469B465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620E162E-201A-FD01-61E6-0E918469B465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620E162E-201A-FD01-61E6-0E918469B465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620E162E-201A-FD01-61E6-0E918469B465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
